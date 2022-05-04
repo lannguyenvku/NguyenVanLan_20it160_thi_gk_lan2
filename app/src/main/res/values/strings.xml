@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">THIGK</string>
+    <string name="title1">Đăng ký</string>
+    <string name="title2">Đăng nhập</string>
+    <string name="desc1">Hãy đăng nhập tài khoản của bạn</string>
+    <string name="desc2">Hãy tạo tài khoản của bạn</string>
+    <string name="hintusername">Nhập tên</string>
+    <string name="hintemail">Nhập email</string>
+    <string name="hintpassword">Nhập mật khẩu</string>
+    <string name="hintconfirm">Nhập lại mật khẩu</string>
+    <string name="chain1">Chưa có tài khoản ? \u0020</string>
+    <string name="chaine2">Hiện</string>
+    <string name="chaine3">Ẩn</string>
+    <string name="forgetpass">Quên mật khẩu !</string>
+    <string name="chine3">Đã có tài khoản ?\u0020</string>
+    <string name="welcom">Chào mừng </string>
+    <string name="logout">Đăng xuất</string>
+    <string name="addnew">Thêm tài khoản</string>
+    <string name="allusers">Tất cả tài khoản</string>
+    <string name="facebook_app_id">667269648023193</string>
+    <string name="fb_login_protocol_scheme">fb667269648023193</string>
+    <string name="titleContent">Title As Methode</string>
+    <string name="titleAll">Danh sách tài khoản</string>
+    <string name="email">Email :</string>
+    <string name="username">Tên người dùng :</string>
+    <string name="save">Lưu</string>
+</resources>
